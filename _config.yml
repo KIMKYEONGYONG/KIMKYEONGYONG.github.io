@@ -20,7 +20,7 @@ title                    : "비전공자도 공부하는 Digital Image Processin
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Kyeongyong"
-description              : "An amazing website."
+description              : "부족합니다만, 비전공자도 이해시키기 위한 DIP 입니다."
 url                      : "https://KIMKYEONGYONG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
