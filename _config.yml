@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "비전공자도 공부하는 Digital Image Processing"
+title                    : "비전공자도 공부하는 Computer Vision"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Kyeongyong"
-description              : "부족합니다만, 비전공자도 이해시키기 위한 DIP 입니다."
+description              : "부족합니다만, 제 스스로에 대해 공부시키려고 만든  Computer Vision 입니다."
 url                      : "https://KIMKYEONGYONG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
