@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "KIM KYEONGYONG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **Computer Vision** programmer."
-  location         : "Rebulic of Korea, Busan"
-  email            :
+  bio              : "I am a **Web Back** Developer."
+  location         : "Rebulic of Korea, Seoul"
+  email            : "kky@stax.co.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
