@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "비전공자도 공부하는 Computer Vision"
+title                    : "개발자 김대리의 생존노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Kyeongyong"
-description              : "개발자 김대리의 "
+description              : "개발자 김대리의 생존노트"
 url                      : "https://KIMKYEONGYONG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
