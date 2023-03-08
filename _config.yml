@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "KIM KYEONGYONG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **Web Back** Developer."
+  bio              : "I am a Web **Back Developer**."
   location         : "Rebulic of Korea, Seoul"
   email            : "kky@stax.kr"
   links:
